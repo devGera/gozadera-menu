@@ -1,6 +1,3 @@
 [
-  {
-    "id":1,
-    "nombre":"Gerardo"
-  }
+{"id": "1"	, "name": "6 alitas"	, "price": "55"	, "description": "BBQ, Búfalo, Original,  Mango habanero, Parmesano."	, "category": "alitas"	, "subCategory": ""	, "active": "TRUE"}
 ]
